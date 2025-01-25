@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm YuZhang-Chen</h1>
-<h3 align="left">I am a student of National Kaohsiung University of Science and Technology.</h3>
+<h3 align="center">I am a student of National Kaohsiung University of Science and Technology.</h3>
 
 <h3 align="left">Learn Programming:</h3>
 <p align="left">
@@ -63,6 +63,6 @@
 
 <h3 align="left">Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhang-chen&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhang-chen&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="yuzhang-chen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuzhang-chen&show_icons=true&locale=en&theme=dark" alt="yuzhang-chen" /></p>

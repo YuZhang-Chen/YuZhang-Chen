@@ -35,7 +35,7 @@
 <h3 align="left">Cloud:</h3>
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="./azure.png" alt="azure" width="40" height="40"/>
+        <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" alt="azure" width="40" height="40"/>
     </a>
 </p>
 

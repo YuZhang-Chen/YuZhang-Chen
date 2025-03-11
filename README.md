@@ -35,7 +35,7 @@
 <h3 align="left">Cloud:</h3>
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png" alt="azure" width="40" height="40"/>
+        <img src="./azure.png" alt="azure" width="40" height="40"/>
     </a>
 </p>
 

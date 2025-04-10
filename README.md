@@ -1,8 +1,16 @@
-
 <h1 align="center">Hi 👋, I'm YuZhang-Chen</h1>
-<h3 align="center">I am a student of National Kaohsiung University of Science and Technology.</h3>
 
-<h3 align="left">Learn Programming:</h3>
+---
+
+## 🧑‍💻 About Me
+- 🎓 Student at National Kaohsiung University of Science and Technology.
+- 🌱 Currently learning various IT skills.
+
+---
+
+## 🛠️ Skills
+
+### Learn Programming:
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -18,28 +26,28 @@
     </a>
 </p>
 
-<h3 align="left">Database:</h3>
+### Database:
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
 </p>
 
-<h3 align="left">Operating system:</h3>
+### Operating System:
 <p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
 </p>
 
-<h3 align="left">Cloud:</h3>
+### Cloud:
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
         <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" alt="azure" width="40" height="40"/>
     </a>
 </p>
 
-<h3 align="left">Software:</h3>
+### Software:
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -52,7 +60,7 @@
     </a>
 </p>
 
-<h3 align="left">Static Site Generators:</h3>
+### Static Site Generators:
 <p align="left">
     <a href="https://hexo.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
@@ -61,8 +69,8 @@
 
 ---
 
-<h3 align="left">Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhang-chen&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="yuzhang-chen" /></p>
+## 📊 Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuzhang-chen&show_icons=true&locale=en&theme=dark" alt="yuzhang-chen" /></p>
+
+<p><img src="https://komarev.com/ghpvc/?username=yuzhang-chen" alt="Profile Views" /></p>

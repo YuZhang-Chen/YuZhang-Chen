@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm YuZhang-Chen</h1>
+<div style="text-align:center;">
+    <h1 style="margin:0; font-size:2.4em; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; color:#0b5fff;">
+        Hi 👋, I'm YuZhang-Chen
+    </h1>
+    <p style="margin:8px 0 0; color:#6b7280; font-size:0.95em;">Student • Currently learning various IT skills</p>
+</div>
 
 ---
 
@@ -10,67 +15,29 @@
 
 ## 🛠️ Skills
 
-### Learn Programming:
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-</p>
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,r&theme=light)](https://skillicons.dev)
 
-### Database:
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-</p>
+### Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react&theme=light)](https://skillicons.dev)
 
-### Operating System:
-<p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-</p>
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=light)](https://skillicons.dev)
 
-### Cloud:
-<p align="left">
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" alt="azure" width="40" height="40"/>
-    </a>
-</p>
+### DevOps & Cloud
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp&theme=light)](https://skillicons.dev)
 
-### Software:
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-</p>
+### Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu&theme=light)](https://skillicons.dev)
 
-### Static Site Generators:
-<p align="left">
-    <a href="https://hexo.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
-    </a>
-</p>
+### Tools & Software
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git&theme=light)](https://skillicons.dev)
 
----
+
+--- 
 
 ## 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuzhang-chen&show_icons=true&locale=en&theme=dark" alt="yuzhang-chen" /></p>
+<p>GitHub profile: <a href="https://github.com/yuzhang-chen" target="_blank" rel="noreferrer">https://github.com/yuzhang-chen</a></p>
 
 <p><img src="https://komarev.com/ghpvc/?username=yuzhang-chen" alt="Profile Views" /></p>

@@ -16,16 +16,16 @@
 ## 🛠️ Skills
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,r&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,r,java,go,&theme=light)](https://skillicons.dev)
 
-### Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react&theme=light)](https://skillicons.dev)
+### Frontend Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=light)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=light)](https://skillicons.dev)
 
 ### DevOps & Cloud
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,docker&theme=light)](https://skillicons.dev)
 
 ### Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu&theme=light)](https://skillicons.dev)

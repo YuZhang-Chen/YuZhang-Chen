@@ -38,7 +38,7 @@
 
 ## 🐍 Contribution Snake
 
-![](https://raw.githubusercontent.com/YuZhang-Chen/YuZhang-Chen/output/github-contribution-grid-snake.svg)
+![](https://github.com/YuZhang-Chen/YuZhang-Chen/blob/output/github-snake.gif)
 
 ---
 

@@ -38,7 +38,8 @@
 
 ## 🐍 Contribution Snake
 
-https://github.com/YUZHANG-CHEN/YUZHANG-CHEN/blob/output/github-snake.gif?raw=true
+![](https://raw.githubusercontent.com/YuZhang-Chen/YuZhang-Chen/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 📊 Stats

@@ -36,6 +36,11 @@
 
 --- 
 
+## 🐍 Contribution Snake
+
+https://github.com/YUZHANG-CHEN/YUZHANG-CHEN/blob/output/github-snake.gif?raw=true
+---
+
 ## 📊 Stats
 
 <p>GitHub profile: <a href="https://github.com/yuzhang-chen" target="_blank" rel="noreferrer">https://github.com/yuzhang-chen</a></p>

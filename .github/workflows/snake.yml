@@ -2,24 +2,34 @@ name: generate-snake
 
 on:
   schedule:
-    # 每 6 小时，执行一次
+    # 每 6 小時執行一次
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  # 建議加入 push 觸發，這樣你修改完 yml 就能立刻看到結果
+  push:
+    branches:
+      - main
 
 jobs:
   generate-snake:
+    permissions: 
+      contents: write # 確保有寫入權限
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3 
         with:
-          # 你的 GitHub 的名称
           github_user_name: YuZhang-Chen
-          # 生成的 .gif 图存储的位置
-          gif_out_path: dist/github-snake.gif
-          # 生成的 .gif 图存储的位置
-          svg_out_path: dist/github-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake.gif?palette=github-light
+            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0 
         with:
           target_branch: output
           build_dir: dist
